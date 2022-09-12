@@ -26,7 +26,7 @@ En cuanto a la limpieza se realizaron las siguientes operaciones:
 5. Eliminar valores repetidos
 
 ### 2. ¿Cuál es el top 10 de artistas más activos de los últimos 10 años?
-
+Se interpreta que la actividad hace referencia a los años consecutivos en los que un artista ha publicado por lo menos una canción.
 Los artistas más activos son:
 Calvin Harris    7
 Drake            7
