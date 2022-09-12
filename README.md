@@ -59,5 +59,31 @@ latin                8
 * Se determina que desde el 2019, el género World/Traditional, ha crecido en popularidad rápidamente. Es posible que se vuelva tendencia en el próximo año.
 * En el último año, se evidencia que varios generos como Dance/Electronic, R&B, Rock, entre otros, no tienen popularidad, pero esto puede ser causado porque aún no se han registrado las canciones de estos géneros.
 
+### 7. Compare los géneros Pop y Rock según sus características de: energy, valence y tempo.Concluya sobre su análisis.
 
+[table]
+
+#### Conclusiones
+
+Energy: 
+* El género rock tiene un valor de energy 11% mayor que pop
+* Cuando la cancion pertenece a ambos géneros, la energy toma un valor 6% menor que una cancion de rock y 5% más que una cancion de pop
+
+Valence: 
+* El género pop, en promedio es 3% más positivo que el género Rock.
+* Cuando la canción pertenece a ambos géneros, la canción es casi igual de positiva que cación de rock y tiene 3% menos positivad que una canción de pop
+
+Tempo:
+* Por lo general, las canciones de rock tienen un tempo de 127 mientras que el pop tiene un tempo de 119. 
+
+### 8. Plantee una pregunta de negocio de su interés, ya sea por tipo de música, artistas u otra dimensión, mediante la cual se analicen al menos 3 variables del dataset y concluya.
+
+#### ¿Cuáles son las top 5 canciones acusticas(con certeza mayor al 50%) e instrumentales(mayor al 50%) más populares?
+[Table]
+
+##### Conclusiones
+
+* La canción acustica más popular es Another Love de Tom Odell
+* La canción del top 5, con más certeza de ser acústica es Lovely (with Khalid) de	Billie Eilish
+* La quinta canción más popular en promedio es All of Me de John Legend
 
