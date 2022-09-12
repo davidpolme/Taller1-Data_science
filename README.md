@@ -15,7 +15,15 @@ Una vez que ya se entendieron los datos se procede a dar respuesta a las siguien
 
 ## Soluciones
 
-1. 
+### 1. Describa el conjunto de datos, tipos de variables y destaque cualquier problema de calidad de datos y procesos de limpieza que deba implementar.
+
+#### Limpieza de los datos
+En cuanto a la limpieza se realizaron las siguientes operaciones:
+1. Formato de datos
+2. Eliminar valores nulos
+3. Separación One hot de registros que tienen más de un valor en cada columna
+4. Corregir columnas con el mismo nombre. (Resultante de la anterior operación)
+5. Eliminar valores repetidos
 
 ### 2. ¿Cuál es el top 10 de artistas más activos de los últimos 10 años?
 
